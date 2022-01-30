@@ -21,10 +21,10 @@
 
 ### Day 1: January 30, 2022 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've created a new repository for my angular project, it will be a admin app for managing sales and inventory for a small business. I created the angular app and added some components and styles nothing too dificult, also added some tests for some of the components just followinf the examples.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I think I spent more than an hour coding but most of it was html and css for the components, so far so good
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Link to repository](https://github.com/davidildefonso/taller-app)
+
