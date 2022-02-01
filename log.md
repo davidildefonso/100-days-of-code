@@ -28,3 +28,13 @@
 **Link(s) to work**
 1. [Link to repository](https://github.com/davidildefonso/taller-app)
 
+
+
+### Day 2: February 1, 2022 
+
+**Today's Progress**: I've added the routing for the pages of my app and start to implement the data fetching from JSON server using the angular HttpClient, is not finnished will continue tomorrow
+
+**Thoughts** the routing was quite simple just followed the docs but the HttpClient has many concepts and couldnt get it all today will finish tomorrow i hope
+
+**Link(s) to work**
+1. [Link to repository](https://github.com/davidildefonso/taller-app)
