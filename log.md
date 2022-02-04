@@ -59,3 +59,11 @@
 
 **Link(s) to work**
 1. [Link to repository](https://github.com/davidildefonso/taller-app)
+
+
+
+### Day 5: February 4, 2022 
+
+**Today's Progress**: I made my table component work after many tries I was kind of stuck in that. Now that I have the table displaying all data I will implement it in the other pages will have to wait until tomorrow. 
+
+**Thoughts** I got stucked on the data fetching and order received byt the Httpclient but finally found a solution
