@@ -67,3 +67,9 @@
 **Today's Progress**: I made my table component work after many tries I was kind of stuck in that. Now that I have the table displaying all data I will implement it in the other pages will have to wait until tomorrow. 
 
 **Thoughts** I got stucked on the data fetching and order received byt the Httpclient but finally found a solution
+
+### Day 6: February 5, 2022 
+
+**Today's Progress**: Today I code the unit tests for the products service, it was kinda overwhelming but somehow I made the tests pass. Will have to continue tomorrow with more tests and the go on to the other pages.
+
+**Thoughts** I really want to get used to TDD, it is great and will try to practice more 
