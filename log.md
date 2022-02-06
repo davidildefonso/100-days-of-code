@@ -73,3 +73,12 @@
 **Today's Progress**: Today I code the unit tests for the products service, it was kinda overwhelming but somehow I made the tests pass. Will have to continue tomorrow with more tests and the go on to the other pages.
 
 **Thoughts** I really want to get used to TDD, it is great and will try to practice more 
+
+
+### Day 7: February 6, 2022 
+
+**Today's Progress**: Holy shit ! I did a lot of testing today most end to end with Angular, i love angular has many everything setup , also added my table component to the clients page just to relax of all the testing . Feel good tomorrow I will add the table to the rest of the pages and copy paste the test which I think will be the same
+
+**Thoughts** Im an angular lover now
+
+
