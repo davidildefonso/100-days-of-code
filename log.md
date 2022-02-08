@@ -82,3 +82,9 @@
 **Thoughts** Im an angular lover now
 
 
+### Day 8: February 8, 2022 
+
+**Today's Progress**: I'm trying to apply TDD and make little improvements to my angular project, today I did more tests and then added my table component to other pages, seems like I will take a long time... 
+
+**Thoughts**  All good today
+
